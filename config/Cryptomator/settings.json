@@ -1,0 +1,38 @@
+{
+  "directories": [
+    {
+      "id": "Ih7y7uqiYMoW",
+      "path": "/mnt/c/Users/userv/OneDrive/crypt",
+      "displayName": "crypt",
+      "unlockAfterStartup": false,
+      "revealAfterMount": true,
+      "useCustomMountPath": false,
+      "usesReadOnlyMode": false,
+      "mountFlags": "",
+      "maxCleartextFilenameLength": 2147483647,
+      "actionAfterUnlock": "ASK",
+      "autoLockWhenIdle": false,
+      "autoLockIdleSeconds": 1800
+    }
+  ],
+  "askedForUpdateCheck": false,
+  "checkForUpdatesEnabled": false,
+  "startHidden": false,
+  "autoCloseVaults": false,
+  "port": 42427,
+  "numTrayNotifications": 3,
+  "preferredGvfsScheme": "DAV",
+  "debugMode": false,
+  "preferredVolumeImpl": "FUSE",
+  "theme": "LIGHT",
+  "uiOrientation": "LEFT_TO_RIGHT",
+  "useKeychain": true,
+  "licenseKey": "eyJhbGciOiJFUzUxMiJ9.eyJpYXQiOjE2Njc3MzcxNTUsImlzcyI6IlNreW1hdGljIiwiYXVkIjoiQ3J5cHRvbWF0b3IiLCJzdWIiOiJtYWlsQGxvcmluLmlvIiwic2VhdHMiOjF9.AV0Mt2apLn6OXqYsvoj6jQfyM9N9vHJ2JVbDge-fuJIEnea43y_ZxP3S5EZOz9PlOG5Jsj1ImfLth5oZfStFc1aKAajhXJRufnDoKLn_FDH8hUNdZ2QWArREX3XilddHZvP2lV7j7RGiXfIijGbLv0P5jZ9sP4DO-vJR1wsZ9NeqAUZJ",
+  "showMinimizeButton": false,
+  "showTrayIcon": false,
+  "windowXPosition": 0,
+  "windowYPosition": 0,
+  "windowWidth": 0,
+  "windowHeight": 0,
+  "displayConfiguration": "displayId: 0, 2256.0x1504.0;"
+}

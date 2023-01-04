@@ -1,0 +1,8 @@
+[core]
+account = userverifried@gmail.com
+project = nextcloud-csvr
+
+[compute]
+zone = australia-southeast1-b
+region = australia-southeast1
+
